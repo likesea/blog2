@@ -1,0 +1,24 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+   "main":"app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.12.1",
+    "ejs": "*",
+    "mongodb":"*",
+	"serve-favicon":"*",
+    "connect-mongo":"*",
+    "connect-flash":"*",
+    "markdown":"*",
+	"async":"*"	,
+<<<<<<< HEAD
+    "generic-pool":"*"
+=======
+	"generic-pool":"*"
+>>>>>>> prod
+  }
+}
